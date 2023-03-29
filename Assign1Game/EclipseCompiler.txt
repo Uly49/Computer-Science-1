@@ -1,0 +1,6 @@
+16 Feb 2021 4:57:09 GMT: Log 'EclipseCompiler.txt' opened: 16 Feb 2021 4:57:09 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign1Game\EclipseCompiler.txt
+16 Feb 2021 4:57:19 GMT: diagnostics = javax.tools.DiagnosticCollector@83896a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f0f52a
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign1Game\HighLow.java]
+16 Feb 2021 4:57:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@359ef3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign1Game;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+16 Feb 2021 4:57:19 GMT: Compiler call returned

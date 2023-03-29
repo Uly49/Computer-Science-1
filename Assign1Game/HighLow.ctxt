@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HighLow
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ Top\ level\ method\ that\ calls\ the\ other\ private\ methods\r\n\ to\ play\ the\ High-Low\ games.\r\n
+comment2.params=
+comment2.target=void\ describeRules()
+comment2.text=\r\n\ Provides\ a\ brief\ explanation\ of\ the\ program\ to\ the\ user\r\n
+comment3.params=
+comment3.target=int\ generateSecretNumber()
+comment3.text=\r\n\ Generates\ and\ returns\ a\ random\ number\ between\ 1\ and\ 100,\ inclusive\r\n
+comment4.params=
+comment4.target=void\ playGame()
+comment4.text=\r\n\ Plays\ one\ High-Low\ game.\r\n
+comment5.params=
+comment5.target=int\ getNextGuess()
+comment5.text=\r\n\ Gets\ the\ player's\ next\ guess.\r\n\ \r\n\ @return\ the\ next\ guess\ entered\ by\ the\ player\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ main()\ method\:\ sets\ up\ keyboard\ scanner\ and\ starts\ the\ game.\r\n
+numComments=7
