@@ -1,0 +1,10 @@
+Creating two thermometers at -273.15 and 0 degrees Celsius
+
+t1 reads -273.15 Celsius, -459.66999999999996 Fahrenheit
+t2 reads 0.0 Celsius, 32.0 Fahrenheit
+
+Changing the readings on the two thermometers
+t1 reads 100.0 Celsius, 212.0 Fahrenheit
+t2 reads 100.0 Celsius, 212.0 Fahrenheit
+
+Thermometer test suite finished...

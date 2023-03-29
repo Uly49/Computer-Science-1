@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InstanceTest
+comment0.text=\n\ This\ class\ tests\ the\ Thermometer\ class's\ instance\ variables.\n\ \n\ Written\ by\:\ Stuart\ Hansen\n\ Date\:\ October\ 1,\ 2002\n\ \n\ Known\ Bugs\:\ none\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

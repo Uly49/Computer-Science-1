@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestPoint
+comment0.text=\n\ \ Name\:\ Erica\ Eddy\n\ \ Course\:\ CSCI\ 241\ -\ Computer\ Science\ I\n\ \ Section\:\ 001\ or\ 002\n\ \ Assignment\:\ 1\n\n\ \ Project/Class\ Description\n\ \ \ \ \ This\ program\ tests\ the\ Point\ class\ methods\ added\ in\ Lab09\n\n\ \ Known\ Bugs\:\n\ \ \ \ \ none\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

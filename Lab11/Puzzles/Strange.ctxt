@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Strange()
+comment1.params=x
+comment1.target=int\ doSomething(int)
+comment2.target=int\ getStrangeValue()
+comment3.params=args
+comment3.target=void\ main(String[])
+numComments=4
