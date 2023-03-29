@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PrimePalindromes
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getCount()
+comment3.params=i\ count
+comment3.target=void\ printNum(int,\ int)
+comment4.params=i
+comment4.target=boolean\ isPrime(int)
+comment5.params=i
+comment5.target=int\ findReverse(int)
+comment6.params=i
+comment6.target=boolean\ isPalindrome(int)
+numComments=7

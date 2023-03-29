@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TestPolygon
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=obj
+comment2.target=void\ printInstanceVariables(Polygon)
+comment3.params=obj
+comment3.target=void\ printCalculations(Polygon)
+comment4.params=
+comment4.target=void\ printClassVariables()
+comment5.params=
+comment5.target=void\ printClassConstants()
+comment6.params=poly1\ poly2
+comment6.target=void\ printIfEqual(Polygon,\ Polygon)
+numComments=7

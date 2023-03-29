@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Name\:\ Ulysses\ Palomar\ (palomar)\r\n\ Course\:\ CSCI\ 241\ -\ Computer\ Science\ I\r\n\ Assignment\:\ 2\r\n\ \r\n\ Project/Class\ Description\:\r\n\ This\ class\ will\ initialize\ the\ cards\ in\ the\ deck\r\n\ Known\ Bugs\:\r\n\ None\r\n
+comment1.params=rank\ suit
+comment1.target=Card(int,\ char)
+comment2.params=
+comment2.target=int\ getRank()
+comment3.params=
+comment3.target=char\ getSuit()
+comment4.params=
+comment4.target=int\ getPoints()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

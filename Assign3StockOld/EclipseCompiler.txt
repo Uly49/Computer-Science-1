@@ -1,0 +1,26 @@
+24 Feb 2021 1:59:44 GMT: Log 'EclipseCompiler.txt' opened: 24 Feb 2021 1:59:44 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\EclipseCompiler.txt
+24 Feb 2021 2:00:01 GMT: diagnostics = javax.tools.DiagnosticCollector@1feb323
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f20d7c
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java]
+24 Feb 2021 2:00:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f3db88' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+24 Feb 2021 2:00:01 GMT: Compiler call returned
+24 Feb 2021 2:00:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b8f856
+24 Feb 2021 2:00:01 GMT:  Kind = ERROR
+24 Feb 2021 2:00:01 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java LineNo = 43 ColNo = 27 Msg = 'Type mismatch: cannot convert from double to int'
+24 Feb 2021 2:00:14 GMT: diagnostics = javax.tools.DiagnosticCollector@49036f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f9be7
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java]
+24 Feb 2021 2:00:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c9c2fa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+24 Feb 2021 2:00:14 GMT: Compiler call returned
+24 Feb 2021 2:00:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1518111
+24 Feb 2021 2:00:14 GMT:  Kind = ERROR
+24 Feb 2021 2:00:14 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java LineNo = 43 ColNo = 27 Msg = 'Type mismatch: cannot convert from double to int'
+24 Feb 2021 2:00:26 GMT: diagnostics = javax.tools.DiagnosticCollector@73d18
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3fd90c
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java]
+24 Feb 2021 2:00:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ac608e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+24 Feb 2021 2:00:26 GMT: Compiler call returned
+24 Feb 2021 2:00:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8aebac
+24 Feb 2021 2:00:26 GMT:  Kind = WARNING
+24 Feb 2021 2:00:26 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java LineNo = 18 ColNo = 17 Msg = 'Resource leak: 'keyboard' is never closed'
+24 Feb 2021 3:47:14 GMT: Log 'EclipseCompiler.txt' opened: 24 Feb 2021 3:47:14 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\EclipseCompiler.txt

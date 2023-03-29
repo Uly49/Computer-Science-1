@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BridgeGame
+comment0.text=\r\n\ Bridge\ Game\r\n\ The\ BridgeGame\ class\ contains\ a\ main()\ method\ which\ tests\ methods\r\n\ built\ into\ the\ Card\ and\ Deck\ classes.\ \ \r\n\ \r\n\ @author\ Erica\ Eddy\r\n\ @version\ April\ 2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

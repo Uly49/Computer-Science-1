@@ -1,0 +1,55 @@
+20 Feb 2021 20:53:28 GMT: Log 'EclipseCompiler.txt' opened: 20 Feb 2021 20:53:28 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\EclipseCompiler.txt
+20 Feb 2021 20:53:42 GMT: diagnostics = javax.tools.DiagnosticCollector@7c2cc9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15563fe
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java]
+20 Feb 2021 20:53:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@133a795' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+20 Feb 2021 20:53:42 GMT: Compiler call returned
+20 Feb 2021 20:53:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@127c3c2
+20 Feb 2021 20:53:42 GMT:  Kind = WARNING
+20 Feb 2021 20:53:42 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 20 ColNo = 13 Msg = 'Resource leak: 'keyboard' is never closed'
+20 Feb 2021 20:53:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40a08e
+20 Feb 2021 20:53:42 GMT:  Kind = WARNING
+20 Feb 2021 20:53:42 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 32 ColNo = 12 Msg = 'The value of the local variable month is not used'
+20 Feb 2021 20:53:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14a53d7
+20 Feb 2021 20:53:42 GMT:  Kind = WARNING
+20 Feb 2021 20:53:42 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 34 ColNo = 12 Msg = 'The value of the local variable day is not used'
+20 Feb 2021 20:53:56 GMT: diagnostics = javax.tools.DiagnosticCollector@1ba6b99
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17ef238
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java]
+20 Feb 2021 20:53:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13b0fec' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+20 Feb 2021 20:53:56 GMT: Compiler call returned
+20 Feb 2021 20:53:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@877f59
+20 Feb 2021 20:53:56 GMT:  Kind = WARNING
+20 Feb 2021 20:53:56 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 20 ColNo = 13 Msg = 'Resource leak: 'keyboard' is never closed'
+20 Feb 2021 20:53:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ca9879
+20 Feb 2021 20:53:56 GMT:  Kind = WARNING
+20 Feb 2021 20:53:56 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 32 ColNo = 12 Msg = 'The value of the local variable month is not used'
+20 Feb 2021 20:53:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a7861b
+20 Feb 2021 20:53:56 GMT:  Kind = WARNING
+20 Feb 2021 20:53:56 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 34 ColNo = 12 Msg = 'The value of the local variable day is not used'
+20 Feb 2021 20:54:04 GMT: diagnostics = javax.tools.DiagnosticCollector@4d7949
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dc9dc0
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java]
+20 Feb 2021 20:54:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11318b1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+20 Feb 2021 20:54:04 GMT: Compiler call returned
+20 Feb 2021 20:54:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f12d83
+20 Feb 2021 20:54:04 GMT:  Kind = WARNING
+20 Feb 2021 20:54:04 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 20 ColNo = 13 Msg = 'Resource leak: 'keyboard' is never closed'
+20 Feb 2021 20:54:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b63dc
+20 Feb 2021 20:54:04 GMT:  Kind = WARNING
+20 Feb 2021 20:54:04 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 32 ColNo = 12 Msg = 'The value of the local variable month is not used'
+20 Feb 2021 20:54:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e3c9e1
+20 Feb 2021 20:54:04 GMT:  Kind = WARNING
+20 Feb 2021 20:54:04 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\assign2Calculations.java LineNo = 34 ColNo = 12 Msg = 'The value of the local variable day is not used'
+20 Feb 2021 20:55:07 GMT: Log 'EclipseCompiler.txt' opened: 20 Feb 2021 20:55:07 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\EclipseCompiler.txt
+20 Feb 2021 20:55:17 GMT: diagnostics = javax.tools.DiagnosticCollector@133daba
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b41175
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\fractions.java]
+20 Feb 2021 20:55:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9fd8ed' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+20 Feb 2021 20:55:18 GMT: Compiler call returned
+20 Feb 2021 20:55:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1483c20
+20 Feb 2021 20:55:18 GMT:  Kind = WARNING
+20 Feb 2021 20:55:18 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\fractions.java LineNo = 19 ColNo = 24 Msg = 'This method has a constructor name'
+20 Feb 2021 20:55:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47667e
+20 Feb 2021 20:55:18 GMT:  Kind = WARNING
+20 Feb 2021 20:55:18 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign2Calculations\fractions.java LineNo = 20 ColNo = 17 Msg = 'Resource leak: 'keyboard' is never closed'

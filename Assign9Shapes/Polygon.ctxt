@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Polygon
+comment1.params=
+comment1.target=int\ getCount()
+comment10.params=
+comment10.target=double\ findArea()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment12.params=
+comment12.target=boolean\ equals()
+comment2.params=
+comment2.target=int\ getChanges()
+comment3.params=
+comment3.target=Polygon()
+comment4.params=sideLength\ numOfSides
+comment4.target=Polygon(double,\ int)
+comment5.params=
+comment5.target=double\ getLength()
+comment6.params=
+comment6.target=int\ getSides()
+comment7.params=theLength
+comment7.target=void\ setLength(double)
+comment8.params=theSides
+comment8.target=void\ setSides(int)
+comment9.params=
+comment9.target=double\ findPerimeter()
+numComments=13

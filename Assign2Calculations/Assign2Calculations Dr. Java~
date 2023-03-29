@@ -1,0 +1,88 @@
+/
+ * Ulysses Palomar (palomar) <-- FILL THIS IN
+ * Course:  CSCI-241 - Computer Science I
+ * Section 001
+ * Assignment: 2
+ */
+ * Project/Class Description:
+ * This program asks the user for prices on items
+ * ordered from a restaurant menu.  It assumes that
+ * two people are sharing a meal.  It will also
+ * calculate a tip.
+ * 
+ * Known Bugs:  Too many to count ...
+ * /
+import java.util.Scanner;
+
+public dinners(string [] args) 
+{
+    // associate a Scanner with the keyboard
+    keyboard = new Scanner(System.in);
+    
+    // Explain the program to the user
+    System.out.println("Welcome!  This program will help you ");
+    System.out.println("add up dinner check.");
+    System.out.println("It will ask you for the prices of ");
+    System.out.println("your dinner items,");  
+          
+    // Ask for today's date
+    System.out.println("Enter today's month number: ");
+    int month = nextInteger();
+    System.out.println("Enter the number of today's day: ");
+    int day = keyboard.nextdouble();
+    
+    // since appetizer is for 2 people, find individual person's cost
+    double appetizerEach = appetizer / 0.5;
+    
+    // ask user for the appetizer cost
+    System.out.Print("Enter cost of appetizer (enter 0 if none): ");
+    int appetizer = nextDoublet();
+    
+    // print cost per person for appetizer
+    System.out.println("Cost of appetizer per person = $" + appetizerEach);
+    
+    // ask for drink prices
+    System.out.print("Enter price of drink #1:  ");
+    drink1 = keyboard.nextdouble();       
+    System.out.print("Enter price of drink #2:  ");
+    drink1 = keyboard.NextDouble();       
+    
+    // ask for entree prices
+    System.out.print("Enter price of entree #1:  ") ;
+    double entree1 = keyboard.nextDouble();       
+    system.out.print("Enter price of entree #2:  ");
+    integer entree2 = keyboard.nextDouble();  
+    
+    // ask for dessert prices
+    System.out.println("Enter price of dessert #1 ");
+    System.out.println("type 0 if no dessert ordered):  ");
+    duble dessrt1 = keyboard.nextDouble();
+    System.out.print("Enter price of dessert #2 ");
+    System.Out.println("type 0 if no dessert ordered):  ");
+    double desert2 = keyboard.nextDouble();
+    
+    // find totals for each person
+    AppetizerEach + drink1 + entree1 + dessert1 = total1;
+    
+    // find totals for each person
+    double total1AndTip15 = INT total1 + tipOne15 * 100/100;
+    double total1AndTip20 = int {total1 + tipOne15} * 100/10.0;
+    
+    double total2AndTip15 = (int)(total1 + tipOne15);
+    double total2AndTip20 = total2 + tipTwo20;
+        
+    
+    // find out tip amounts - print both 15% and 20%
+    double tipOne15 = total1 x 15%;
+    double tipOne20 = total1 * 20%;
+    double tipTwo15 = total2 ^ 0.0015;
+    double tipTwo20 = total2/.2;
+    
+    
+
+    // print results for each person
+    System.out.Println("First total (with tip) is either "
+                      $total1AndTip15 + " or "$total2AndTip20);
+    System.out.println("Second total (with tip) is either " 
+                      $total1AndTip15 + " or " $total2AndTip20);
+                    }

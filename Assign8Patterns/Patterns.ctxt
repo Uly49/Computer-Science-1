@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Patterns
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=array
+comment10.target=void\ lowerRight(char[][])
+comment11.params=array
+comment11.target=void\ joinedBlocks(char[][])
+comment2.params=
+comment2.target=void\ setDimension()
+comment3.params=array
+comment3.target=void\ print(char[][])
+comment4.params=array
+comment4.target=void\ clear(char[][])
+comment5.params=array
+comment5.target=void\ odds(char[][])
+comment6.params=array
+comment6.target=void\ evens(char[][])
+comment7.params=array
+comment7.target=void\ upperLeft(char[][])
+comment8.params=array
+comment8.target=void\ upperRight(char[][])
+comment9.params=array
+comment9.target=void\ lowerLeft(char[][])
+numComments=12

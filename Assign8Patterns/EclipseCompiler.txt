@@ -1,0 +1,1 @@
+22 Jun 2021 1:53:21 GMT: Log 'EclipseCompiler.txt' opened: 22 Jun 2021 1:53:21 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign8Patterns\EclipseCompiler.txt

@@ -1,0 +1,12 @@
+24 Feb 2021 4:25:00 GMT: Log 'EclipseCompiler.txt' opened: 24 Feb 2021 4:25:00 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\EclipseCompiler.txt
+24 Feb 2021 4:25:07 GMT: diagnostics = javax.tools.DiagnosticCollector@10e82a2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2309aa
+fileObjects = [C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java]
+24 Feb 2021 4:25:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c2681b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+24 Feb 2021 4:25:07 GMT: Compiler call returned
+24 Feb 2021 4:25:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10dd7b1
+24 Feb 2021 4:25:07 GMT:  Kind = WARNING
+24 Feb 2021 4:25:07 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java LineNo = 18 ColNo = 17 Msg = 'Resource leak: 'keyboard' is never closed'
+24 Feb 2021 4:25:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e88eaa
+24 Feb 2021 4:25:07 GMT:  Kind = WARNING
+24 Feb 2021 4:25:07 GMT: Name = C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign3Stock\assign3Stock.java LineNo = 51 ColNo = 13 Msg = 'The value of the local variable stockSixtyFourthsRemainder is not used'

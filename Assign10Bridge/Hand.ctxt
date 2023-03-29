@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hand
+comment0.text=\r\n\ Name\:\ Ulysses\ Palomar\ (palomar)\r\n\ Course\:\ CSCI\ 241\ -\ Computer\ Science\ I\r\n\ Assignment\:\ 2\r\n\ \r\n\ Project/Class\ Description\:\r\n\ This\ class\ will\ initialize\ the\ deck\ of\ cards\r\n\ Known\ Bugs\:\r\n\ None\r\n
+comment1.params=cardArray
+comment1.target=Hand(Card[])
+comment2.params=
+comment2.target=int\ countHighCardPoints()
+numComments=3

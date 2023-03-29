@@ -1,0 +1,2 @@
+2 Mar 2021 3:50:56 GMT: Log 'EclipseCompiler.txt' opened: 2 Mar 2021 3:50:56 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign4Postage\Assign4Postage\EclipseCompiler.txt
+2 Mar 2021 3:55:13 GMT: Log 'EclipseCompiler.txt' opened: 2 Mar 2021 3:55:13 GMT with name C:\Users\uly49\OneDrive\Documents\CSCI 241\Assign4Postage\Assign4Postage\EclipseCompiler.txt
