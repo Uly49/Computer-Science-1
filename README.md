@@ -1,3 +1,3 @@
-# Computer-Science-1
-# University of Wisconsin - Parkside
-# CSCI 241
+# Computer-Science-1__
+University of Wisconsin - Parkside
+CSCI 241
